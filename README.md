@@ -45,4 +45,8 @@ DSA solving
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
