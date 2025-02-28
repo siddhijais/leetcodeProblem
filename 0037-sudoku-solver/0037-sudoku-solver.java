@@ -1,53 +1,55 @@
 import java.util.*;
+
 class Solution {
-boolean helper(char[][] board,int row, int col){
-    if(row == board.length){
-        return true;
-    }
-    int nrow = row, ncol = col+1;
-    if(board[0].length == ncol){
-        nrow = row+1;
-        ncol = 0;
-    }
-    if(board[row][col] != '.'){
-       return helper(board,nrow,ncol);
-        }
-        for(char dig = '1'; dig<='9'; dig++){
-           if( isSafe(board,row,col,dig)){
-                board[row][col] = dig;
-                if(helper(board,nrow,ncol)){
-                    return true;
-                 }
-                board[row][col] = '.';
-            }
-                      
-        }
-        return false;
-
-    }
-    boolean isSafe(char[][] board,int row, int col,int dig){
-        for(int i = 0; i<board.length; i++){
-            //check row
-            if(board[i][col] == dig){
-                return false;
-            }
-            //check col
-           if(board[row][i] == dig){
-                return false;
-            }
-            //check grid
-            int subgridRow = 3*(row/3) + i/3;
-            int subgridCol = 3*(col/3) + i%3;
-
-            if(board[subgridRow][subgridCol] == dig){
-                return false;
-            }
-        }
-        return true;
-    }
-
-     
     public void solveSudoku(char[][] board) {
-        helper(board,0,0);
+        boolean[][] rowUsed = new boolean[9][9];
+        boolean[][] colUsed = new boolean[9][9];
+        boolean[][] boxUsed = new boolean[9][9];
+
+        // Initialize the boolean tracking arrays
+        for (int r = 0; r < 9; r++) {
+            for (int c = 0; c < 9; c++) {
+                if (board[r][c] != '.') {
+                    int num = board[r][c] - '1';
+                    int boxIndex = (r / 3) * 3 + (c / 3);
+                    rowUsed[r][num] = true;
+                    colUsed[c][num] = true;
+                    boxUsed[boxIndex][num] = true;
+                }
+            }
+        }
+
+        helper(board, 0, 0, rowUsed, colUsed, boxUsed);
+    }
+
+    private boolean helper(char[][] board, int row, int col, boolean[][] rowUsed, boolean[][] colUsed, boolean[][] boxUsed) {
+        if (row == 9) return true; // Sudoku solved
+
+        int nextRow = (col == 8) ? row + 1 : row;
+        int nextCol = (col == 8) ? 0 : col + 1;
+
+        if (board[row][col] != '.') {
+            return helper(board, nextRow, nextCol, rowUsed, colUsed, boxUsed);
+        }
+
+        for (char dig = '1'; dig <= '9'; dig++) {
+            int num = dig - '1';
+            int boxIndex = (row / 3) * 3 + (col / 3);
+
+            if (!rowUsed[row][num] && !colUsed[col][num] && !boxUsed[boxIndex][num]) {
+                board[row][col] = dig;
+                rowUsed[row][num] = colUsed[col][num] = boxUsed[boxIndex][num] = true;
+
+                if (helper(board, nextRow, nextCol, rowUsed, colUsed, boxUsed)) {
+                    return true; // Solution found
+                }
+
+                // Backtrack
+                board[row][col] = '.';
+                rowUsed[row][num] = colUsed[col][num] = boxUsed[boxIndex][num] = false;
+            }
+        }
+
+        return false; // No valid number found
     }
 }
