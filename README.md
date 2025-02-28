@@ -11,6 +11,7 @@ DSA solving
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0037-sudoku-solver) |
 | [0084-largest-rectangle-in-histogram](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
@@ -59,4 +60,16 @@ DSA solving
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0096-unique-binary-search-trees) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
