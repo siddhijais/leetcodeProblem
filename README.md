@@ -14,6 +14,7 @@ DSA solving
 | [0037-sudoku-solver](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0037-sudoku-solver) |
 | [0084-largest-rectangle-in-histogram](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1380-number-of-closed-islands](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1380-number-of-closed-islands) |
 ## Stack
 |  |
 | ------- |
@@ -34,10 +35,12 @@ DSA solving
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1380-number-of-closed-islands](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1380-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1380-number-of-closed-islands](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1380-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -72,4 +75,9 @@ DSA solving
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0037-sudoku-solver) |
+| [1380-number-of-closed-islands](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1380-number-of-closed-islands) |
+## Union Find
+|  |
+| ------- |
+| [1380-number-of-closed-islands](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1380-number-of-closed-islands) |
 <!---LeetCode Topics End-->
