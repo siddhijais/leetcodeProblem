@@ -81,4 +81,12 @@ DSA solving
 |  |
 | ------- |
 | [1380-number-of-closed-islands](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1380-number-of-closed-islands) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
