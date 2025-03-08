@@ -89,4 +89,8 @@ DSA solving
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
