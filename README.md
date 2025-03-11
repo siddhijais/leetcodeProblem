@@ -68,6 +68,7 @@ DSA solving
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0037-sudoku-solver) |
+| [0142-linked-list-cycle-ii](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,6 +85,7 @@ DSA solving
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -92,5 +94,6 @@ DSA solving
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
