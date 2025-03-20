@@ -92,6 +92,7 @@ DSA solving
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
