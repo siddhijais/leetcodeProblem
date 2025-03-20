@@ -11,6 +11,7 @@ DSA solving
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0037-sudoku-solver) |
 | [0084-largest-rectangle-in-histogram](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -85,6 +86,7 @@ DSA solving
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0344-reverse-string) |
 ## String
