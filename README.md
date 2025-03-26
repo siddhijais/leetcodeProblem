@@ -89,11 +89,13 @@ DSA solving
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0344-reverse-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/student-Siddhi/leetcodeProblem/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Linked List
