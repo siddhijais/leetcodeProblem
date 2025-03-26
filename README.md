@@ -21,6 +21,7 @@ DSA solving
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/student-Siddhi/leetcodeProblem/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -94,6 +95,7 @@ DSA solving
 | ------- |
 | [0038-count-and-say](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0344-reverse-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/student-Siddhi/leetcodeProblem/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -104,4 +106,8 @@ DSA solving
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0025-reverse-nodes-in-k-group) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/student-Siddhi/leetcodeProblem/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
