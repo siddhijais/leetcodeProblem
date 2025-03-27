@@ -14,6 +14,7 @@ DSA solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0037-sudoku-solver) |
 | [0084-largest-rectangle-in-histogram](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0283-move-zeroes](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0283-move-zeroes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1380-number-of-closed-islands](https://github.com/student-Siddhi/leetcodeProblem/tree/master/1380-number-of-closed-islands) |
 ## Stack
@@ -90,6 +91,7 @@ DSA solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0344-reverse-string) |
 ## String
 |  |
