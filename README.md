@@ -70,6 +70,7 @@ DSA solving
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/siddhijais/leetcodeProblem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
 ## Backtracking
@@ -96,6 +97,7 @@ DSA solving
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/siddhijais/leetcodeProblem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/student-Siddhi/leetcodeProblem/tree/master/0344-reverse-string) |
@@ -114,4 +116,8 @@ DSA solving
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/student-Siddhi/leetcodeProblem/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/siddhijais/leetcodeProblem/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
